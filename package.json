@@ -1,0 +1,23 @@
+{
+  "name": "notes2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altayhaser/notes_final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altayhaser/notes_final/issues"
+  },
+  "homepage": "https://github.com/altayhaser/notes_final#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
